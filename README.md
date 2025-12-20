@@ -18,10 +18,9 @@ Since no printable version of this visual representation existed publicly [(and 
   </tr>
   <tr>
     <td><img width="1920" height="1080" alt="Still 2025-12-20 011945_1 5 1" src="https://github.com/user-attachments/assets/48fb7e63-6b45-4c1f-bb46-fdd4a6cfd90c" /></td>
-    <td><img width="738" height="517" alt="GameplayFramework-Poster_ISOCoatedv2_NoConversion_I" src="https://github.com/user-attachments/assets/2fbb2b29-9963-45b5-99b9-efb2363aec17" /></td>
+    <td><img width="1920" height="1080" alt="Still 2025-12-20 144026_1 6 1" src="https://github.com/user-attachments/assets/e1e9abe3-2338-4738-8062-c7d8b28db655" /></td>
   </tr>
 </table>
-<br>
 <br>
 
 ### Specifications
@@ -44,7 +43,6 @@ Since no printable version of this visual representation existed publicly [(and 
 
 #### Colors
 - Color Working Spaces are sRGB IEC61966-2.1 for RGB and ISO Coated v2 (ECI) for CMYK. 
-<br>
 <img width="457" height="527" alt="ColorWorkingSpaces" src="https://github.com/user-attachments/assets/4da293c6-ed9c-4c92-bd9f-b9c0e28fdd52" />
 <br>
 <br>
@@ -52,8 +50,9 @@ Since no printable version of this visual representation existed publicly [(and 
 - A rich black of 60/40/40/100 is used for text, some borders, and 4 pt as well as some 2 pt arrows.
 - Most colors are derived from the PANTONE C library, and are loosely based on the color coding of Epic's visual representation
 - Extra color and gradient swatches for proofing are included in the file. They help checking color accuracy and bleed. In print tests, I got fairly good results using [Fomei Photo Matt 230](https://www.fomei.com/en/products-photo-matt-230-36047/1)
-<br>
 <img width="403" height="127" alt="TestStrip" src="https://github.com/user-attachments/assets/c1ee17a2-0ebe-4793-be51-7797fb3f83d3" />
+<br>
+<br>
 
 ---
 

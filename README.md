@@ -1,6 +1,13 @@
 # Gameplay Framework
 ## A printable version of Unreal Engine's Gameplay Framework
-
+<a href="https://github.com/hohloh/gameplayframework?tab=CC0-1.0-1-ov-file#readme">
+<img alt="CC0-1.0 license" src="https://img.shields.io/badge/License-CC0_1.0-orange"/>
+</a>
+<a href="https://github.com/hohloh/gameplayframework/releases/tag/v0.1.0">
+<img alt="Current Release" src="https://img.shields.io/badge/Release-0.1.0-blue"/>
+</a>
+<br/>
+<br/>
 Poster based on the visual representation of the Gameplay Framework in the Unreal Engine [documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-framework-in-unreal-engine).
 
 ---

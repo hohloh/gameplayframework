@@ -1,9 +1,10 @@
 <h1 align="center">Gameplay Framework</h1>
 <h3 align="center">A printable version of Unreal Engine's Gameplay Framework</h3>
 <br/>
-<br/>
-<a href="https://github.com/hohloh/gameplayframework?tab=CC0-1.0-1-ov-file#readme"> <img alt="CC0-1.0 license" src="https://img.shields.io/badge/License-CC0_1.0-orange"/></a>
-<a href="https://github.com/hohloh/gameplayframework/releases"> <img alt="Current Release" src="https://img.shields.io/badge/Release-0.1.0-blue"/></a>
+<p align="center">
+  <img alt="CC0-1.0 license" src="https://img.shields.io/badge/License-CC0_1.0-orange"/>
+  <img alt="Current Release" src="https://img.shields.io/badge/Release-0.1.0-blue"/>
+</p>
 <br/>
 <br/>
 

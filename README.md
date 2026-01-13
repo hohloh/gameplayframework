@@ -6,6 +6,7 @@
 <a href="https://github.com/hohloh/gameplayframework/releases"> <img alt="Current Release" src="https://img.shields.io/badge/Release-0.1.0-blue"/></a>
 <br/>
 <br/>
+
 Poster based on the visual representation of the Gameplay Framework in the Unreal Engine [documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-framework-in-unreal-engine).
 
 ---
